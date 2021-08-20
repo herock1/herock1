@@ -10,6 +10,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mehedi-hasan-a6647859/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="Mehedi Hasan" height="30" width="30" /></a>
+  <a href="https://www.facebook.com/herocksust/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/facebook-circled--v1.png" alt="Herock Hasan" height="30" width="30" /></a>
   </centre>
 <!---
 herock1/herock1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
