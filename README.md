@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mehedi Hasan
+- 👋 Hi, I’m Mehedi Hasan. I am design oriented iOS developer with 5+ years of experience managing iOS development process for small to medium-sized companies. Deep experience of full development life cycle -from UI/UX design, to software architecture, through development and it’s consequential updates. Expert in development methodologies, tools, and processing contributing to the design, deploy, and the incorporation of feedback into iOS mobile applications
+
 - 👀 I’m interested in mobile development. I worked on both android and iOS. For development i used Objective-c, Swift, and Kotlin.
 - 🌱 I’m currently learning new design pattern like VIPER, VIP, SwiftUI
 - 💞️ I’m looking to collaborate on ...
